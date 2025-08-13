@@ -8,8 +8,6 @@ This repository (`openplc-rpi/.github`) hosts the **organization‑wide README**
 
 - **Backend (Python)** → <https://github.com/openplc-rpi/back-clp>
 - **Frontend (ReactJS)** → <https://github.com/openplc-rpi/front-clp>
-- **Paper (PDF)** → [`Logic_Programmable_Controller__LPC___Rev1_.pdf`](./Logic_Programmable_Controller__LPC___Rev1_.pdf)
-
 ---
 
 ## Table of Contents
@@ -243,7 +241,9 @@ docker compose up -d --build
 ---
 
 ### License
-This project is research/education oriented and provided as‑is under an open‑source license of your choice (fill in here).
+This project is research/education oriented and provided as‑is under an open‑source license MIT (https://opensource.org/licenses/MIT).
+
+.
 
 ---
 
