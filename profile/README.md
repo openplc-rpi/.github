@@ -68,6 +68,10 @@ The whole stack runs on a **Raspberry Pi** and can be accessed from any device 
 - **Frontend (ReactJS)**: <https://github.com/openplc-rpi/front-clp>
 
   Contains: React Flow canvas, block components, sidebar, WebSocket client, and `.env` templates.
+- **Raspberry Shield**: <https://github.com/openplc-rpi/shield-clp-rpi>
+
+Contains: Eletric project and garbers to a shield PCB. 
+
 
 ---
 
