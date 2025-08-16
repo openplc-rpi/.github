@@ -1,6 +1,6 @@
 # An Open-Source, Low-Cost PLC Framework with FBD-Based Graphical Programming
 
-Autors: Carlos Roberto Moratelli, Leonardo dos Santos Schmitt, Ciro André Pitz.
+Authors: Carlos Roberto Moratelli, Leonardo dos Santos Schmitt, Ciro André Pitz.
 
 Published in IEEE Latin America Transactions (Submition ID: 9892)
 
