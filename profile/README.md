@@ -1,4 +1,9 @@
-# Open PLC for Raspberry Pi (FBD + Web UI)
+# An Open-Source, Low-Cost PLC Framework with FBD-Based Graphical Programming
+
+Autors: Carlos Roberto Moratelli, Leonardo dos Santos Schmitt, Ciro André Pitz.
+
+Published in IEEE Latin America Transactions (Submition ID: 9892)
+
 
 > Low‑cost, open‑source PLC framework that runs fully on a Raspberry Pi and lets you **program automation logic visually** (Function Block Diagram – FBD) in the browser.
 
