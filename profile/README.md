@@ -34,8 +34,6 @@ This project implements a **PLC‑like controller** composed of two applications
 
 It is intended for **education, research, and small/medium automation** where low cost and flexibility matter more than formal PLC certifications.
 
-> A peer‑review paper describing the design and execution model is provided in the root of this repo: [`Logic_Programmable_Controller__LPC___Rev1_.pdf`](./Logic_Programmable_Controller__LPC___Rev1_.pdf).
-
 ---
 
 ## Main features
