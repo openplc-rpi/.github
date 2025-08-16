@@ -251,8 +251,4 @@ docker compose up -d --build
 ### License
 This project is research/education oriented and provided as‑is under an open‑source license MIT (https://opensource.org/licenses/MIT).
 
-.
-
 ---
-
-**Credits**: Based on the work by Carlos R. Moratelli, Leonardo S. Schmitt, and Ciro A. Pitz.
